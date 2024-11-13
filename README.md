@@ -1,1 +1,20 @@
-# READ-ME
+# Read-me
+
+# 👋 Hola! I'm Ally,
+
+I'm a passionate Grants Program Monitor, dedicated to developing impactful projects that bridge technology with real-world solutions. As a proud first-generation advocate, my work is enriched by my experiences advocating for underserved communities, drawing from my own background.
+
+## 💡 Experience Highlights:
+- Collaborated on initiatives like Mayor's Anti-Human Trafficking Task Force.
+- Expertise in administration, project coordination, and community engagement, honed through my time at the Department on the Status of Women.
+
+## 🌱 What drives me?
+Combining technical skill with a commitment to uplift and empower, I aim to create inclusive projects and resources that resonate with diverse audiences. My journey reflects resilience, adaptability, and creativity drawn from my love for mental health advocacy and connecting with others on deeper topics.
+
+## 🛠 Skills & Learning:
+I'm currently expanding my tech toolkit by learning JavaScript through the AnnieCannons program, deepening my understanding and ability to build impactful solutions.
+
+## 🎧 Beyond Tech:
+When I'm not coding or strategizing, you'll find me recording a podcast on breaking mental health stigmas, reflecting with my bilingual journaling project, or planning engaging content to inspire healing.
+
+Let's collaborate and make meaningful things happen! 🌍✨
